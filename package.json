@@ -1,0 +1,9 @@
+{
+    "name": "roster",
+    "version": "0.3.0",
+    "dependencies": {
+        "ws": "2.0.2"
+    },
+    "devDependencies": { },
+    "scripts": { }
+}
